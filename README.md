@@ -45,15 +45,6 @@ This project enhances the experience by:
 
 ---
 
-## 👩‍💻 Team Members
-| Name | Register No. | Role |
-|------|---------------|------|
-| **Brian Sam A** | 43111147 | Project Lead, VR Development |
-| **Mohammad Ismail** | 43111157 | Networking & Integration |
-| **Vishnu A Nambiar** | 43111134 | UI Design & Testing |
-
----
-
 ## 🧪 Key Features
 - Real-time desktop streaming in VR  
 - Virtual workspace with multiple floating screens  
